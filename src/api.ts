@@ -1,0 +1,1 @@
+export const BACKEND_API = 'https://supplier-backend-production.up.railway.app';
